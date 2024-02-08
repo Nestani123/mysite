@@ -70,14 +70,14 @@ span{
 }
 footer{
     display: flex;
-}
-.ending{
-    display: flex;
     width: 1140px;
     height: 161px;
     margin-top: 90px;
     background-color: #19126B;
-    justify-content: space-between;
+    justify-content: space-evenly;
+}
+.ending{
+
 }
 .icons{
     justify-content: center;
