@@ -6,8 +6,8 @@ a{
 }
 .logo-pic{
 display: inline;
-width: 180px;
-height: 96px;
+width: 30%;
+height: 10%;
 }
 .nav-list{
     display: flex;
