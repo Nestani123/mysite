@@ -72,16 +72,19 @@ footer{
     display: flex;
 }
 .ending{
-    width: 1140px;
-    height: 161px;
+    display: flex;
+    width: 100%;
+    height: 100%;
     margin-top: 90px;
     background-color: #19126B;
+    justify-content: space-between;
 }
 .icons{
     justify-content: center;
 }
+
 iframe{
-    width: 20%;
-    height: 15%
+   width: auto;
+   height: auto;
 }
 
