@@ -61,13 +61,20 @@ margin-top: 120px;
 height: 439px;
 background-color: #EBEBF0;
 }
+.unit-pic{
+    display: block;
+}
+span{
+    display: block;
+    margin-top: 10px;
+}
 footer{
     display: flex;
 }
 .ending{
     width: 1140px;
     height: 161px;
-    top: 1518px;
+    margin-top: 90px;
     background-color: #19126B;
 }
 .icons{
@@ -77,3 +84,4 @@ iframe{
     width: 20%;
     height: 15%
 }
+
