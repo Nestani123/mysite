@@ -1,3 +1,4 @@
+
 ul, ol{
     list-style-type: none;
 }
@@ -50,10 +51,15 @@ color: #090346;
 .history{
 width: 780px;
 height: 188px;
-top: 694px;
+margin-top: 100px;
 margin-left: 130px;
 }
-.diverse-pictures{
+.unit-pic2{
+    display: inline;
+
+}
+
+section{
 display: flex;
 justify-content: space-between;
 width: 1140px;
@@ -61,9 +67,7 @@ margin-top: 120px;
 height: 439px;
 background-color: #EBEBF0;
 }
-.unit-pic{
-    display: block;
-}
+
 span{
     display: block;
     margin-top: 10px;
@@ -87,4 +91,5 @@ iframe{
    width: auto;
    height: auto;
 }
+
 
