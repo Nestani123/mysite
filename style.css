@@ -27,6 +27,9 @@ height: 10%;
     color: blueviolet;
 
 }
+nav li:nth-child(2){
+    border: 1px solid purple;
+}
 .home-picture{
 height: 778px;
 top: 96px;
@@ -90,6 +93,12 @@ footer{
 iframe{
    width: auto;
    height: auto;
+}
+a:hover, a:active{
+    width: auto;
+    height: auto;
+    background-color: pink;
+    color: white;
 }
 
 
