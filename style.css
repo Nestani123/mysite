@@ -30,11 +30,14 @@ height: 10%;
 nav li:nth-child(2){
     border: 1px solid purple;
 }
-.home-picture{
-height: 778px;
-top: 96px;
-left: 300px;
+.meandmy{
+    width: 1000px;
+    height: 1000px;
+    background-image: url("us.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 h2{
 font-family: Inter;
 font-size: 36px;
